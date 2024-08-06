@@ -24,5 +24,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jatinsuyal&show_icons=true&locale=en&layout=compact" alt="jatinsuyal" /></p>
 
-<img alt ="my stats" align="left" width="47%" src ="https://github-readme-stats.vercel.app/api?username=jatinsuyal"/>
+<!---<img alt ="my stats" align="left" width="47%" src ="https://github-readme-stats.vercel.app/api?username=jatinsuyal"/>-->
 
